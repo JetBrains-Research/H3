@@ -1,3 +1,7 @@
+# Status: Archived 
+
+No longer maintained
+
 # Hungry Hungry Hippos (H3)
 
 This repository provides the official implementation of H3 from the
